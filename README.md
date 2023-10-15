@@ -1,4 +1,4 @@
-# Biography
+# 📓 Biography
 Hi there 👋
 
 Yoko Hermanto - Frontend Developer
@@ -9,16 +9,19 @@ I am a 20 year old student living in Jakarta. I'm interested in web development.
 Currently I am a Bina Nusantara student, my academic journey has equipped me with a strong foundation in the field of technology. Apart from that, in my spare time I often hone my programming skills and read things on the internet that are related to programming. 
 These interests not only provide me with relaxation, but also inspire creativity and critical thinking.
 
-# Skill
+# ⚽ Skill
 ⭐ HTML
 ⭐ CSS
+<br>
 ⭐ JavaScript
 ⭐ C
+<br>
 ⭐ UI/UX
 ⭐ Bootstrap
+<br>
 ⭐ Python
 
-# Education
+# 🏫 Education
 2018 - 2021
 Jurusan IPA - SMA Yos Sudarso Cilacap
 SMA Yos Sudarso Cilacap is a private school under the management of the Yayasan Sosial Bina Sejahtera. It was founded in 1979 and is officially recognized
