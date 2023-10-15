@@ -11,12 +11,15 @@ These interests not only provide me with relaxation, but also inspire creativity
 
 # ⚽ Skill
 ⭐ HTML
+<br>
 ⭐ CSS
 <br>
 ⭐ JavaScript
+<br>
 ⭐ C
 <br>
 ⭐ UI/UX
+<br>
 ⭐ Bootstrap
 <br>
 ⭐ Python
