@@ -3,7 +3,7 @@ Hi there 👋
 
 Yoko Hermanto - Frontend Developer
 
-Website Personal : https://yokohermanto1.github.io/YokoHermanto1/
+Website Personal : https://yokohermanto1.github.io/YokoHermanto/
 
 I am a 20 year old student living in Jakarta. I'm interested in web development. I have always been driven by a curiosity to learn and a desire to develop my current skills. 
 Currently I am a Bina Nusantara student, my academic journey has equipped me with a strong foundation in the field of technology. Apart from that, in my spare time I often hone my programming skills and read things on the internet that are related to programming. 
