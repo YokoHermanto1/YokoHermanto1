@@ -34,8 +34,5 @@ Computer Science - Bina Nusantara University
 Bina Nusantara University, also known as BINUS University, is a private university in Indonesia. 
 Its history dates back to October 21, 1974, when it was established as a short-term course called the Modern Computer Course.
 
-# Screenshot
-- PC
+# 📷 Screenshot
 ![2023-10-16 (1)](https://github.com/YokoHermanto1/YokoHermanto1/assets/145733702/7ed5a3b4-73d7-4b84-b699-25082433f840)
--Phone
-![WhatsApp Image 2023-10-16 at 14 15 37_4a980cfd](https://github.com/YokoHermanto1/YokoHermanto1/assets/145733702/40509148-d1dd-43f1-95e4-3d3a47cb11ad)
