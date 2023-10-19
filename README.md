@@ -27,10 +27,12 @@ These interests not only provide me with relaxation, but also inspire creativity
 # 🏫 Education
 2018 - 2021
 Jurusan IPA - SMA Yos Sudarso Cilacap
+<br>
 SMA Yos Sudarso Cilacap is a private school under the management of the Yayasan Sosial Bina Sejahtera. It was founded in 1979 and is officially recognized
 
 2021- End
 Computer Science - Bina Nusantara University
+<br>
 Bina Nusantara University, also known as BINUS University, is a private university in Indonesia. 
 Its history dates back to October 21, 1974, when it was established as a short-term course called the Modern Computer Course.
 
