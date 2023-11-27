@@ -3,8 +3,8 @@ Hi there 👋
 
 Yoko Hermanto - Frontend Developer
 
-Website Personal : https://yokohermanto1.github.io/YokoHermanto1/
-Download CV : https://drive.google.com/uc?export=download&id=1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl
+Website Personal : https://yokohermanto1.github.io/YokoHermanto1/ <br>
+Download CV : https://drive.google.com/uc?export=download&id=1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl <br>
 View CV : https://drive.google.com/file/d/1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl/view?usp=sharing
 
 I am a 20 year old student living in Jakarta. I'm interested in web designer. I have always been driven by a curiosity to learn and a desire to develop my current skills. 
