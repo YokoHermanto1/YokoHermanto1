@@ -7,7 +7,7 @@ Website Personal : https://yokohermanto1.github.io/YokoHermanto1/ <br>
 Download CV : https://drive.google.com/uc?export=download&id=1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl <br>
 View CV : https://drive.google.com/file/d/1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl/view?usp=sharing
 
-I am a 20 year old student living in Jakarta. I'm interested in web designer. I have always been driven by a curiosity to learn and a desire to develop my current skills. 
+I am a 20 year old student living in Jakarta. I'm interested in Android Development. I have always been driven by a curiosity to learn and a desire to develop my current skills. 
 Currently I am a Bina Nusantara student, my academic journey has equipped me with a strong foundation in the field of technology. Apart from that, in my spare time I often hone my programming skills and read things on the internet that are related to programming. 
 These interests not only provide me with relaxation, but also inspire creativity and critical thinking.
 
