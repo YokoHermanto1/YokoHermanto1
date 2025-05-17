@@ -1,3 +1,5 @@
+![Pixel Art](./pixel-art.gif)
+
 <h1 align="left">Hey there! i’m Yoko Hermanto from Indonesia.👋🏻</h1>
 
 ###
