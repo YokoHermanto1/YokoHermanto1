@@ -1,4 +1,4 @@
-![Pixel Art](./pixelart.gif)
+![Pixel Art](./pixelart1.gif)
 
 <h1 align="left">Hey there! i’m Yoko Hermanto from Indonesia.👋🏻</h1>
 
