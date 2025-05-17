@@ -1,42 +1,44 @@
-# 📓 Biography
-Hi there 👋
+<h2 align="left">Hi 👋! My name is Yoko Hermanto and I'm a Website Developer, from Indonesia</h2>
 
-Yoko Hermanto - Frontend Developer
+###
 
-Website Personal : https://yokohermanto1.github.io/YokoHermanto1/ <br>
-Download CV : https://drive.google.com/uc?export=download&id=1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl <br>
-View CV : https://drive.google.com/file/d/1vdeIOrEJ4muK3MUbM5KqW0oT3apq7kNl/view?usp=sharing
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am a 20 year old student living in Jakarta. I'm interested in Android Development. I have always been driven by a curiosity to learn and a desire to develop my current skills. 
-Currently I am a Bina Nusantara student, my academic journey has equipped me with a strong foundation in the field of technology. Apart from that, in my spare time I often hone my programming skills and read things on the internet that are related to programming. 
-These interests not only provide me with relaxation, but also inspire creativity and critical thinking.
+###
 
-# ⚽ Skill
-⭐ HTML
-<br>
-⭐ CSS
-<br>
-⭐ JavaScript
-<br>
-⭐ C
-<br>
-⭐ UI/UX
-<br>
-⭐ Bootstrap
-<br>
-⭐ Python
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-# 🏫 Education
-2018 - 2021
-Jurusan IPA - SMA Yos Sudarso Cilacap
-<br>
-SMA Yos Sudarso Cilacap is a private school under the management of the Yayasan Sosial Bina Sejahtera. It was founded in 1979 and is officially recognized
+###
 
-2021- End
-Computer Science - Bina Nusantara University
-<br>
-Bina Nusantara University, also known as BINUS University, is a private university in Indonesia. 
-Its history dates back to October 21, 1974, when it was established as a short-term course called the Modern Computer Course.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-# 📷 Screenshot
-![2023-10-16 (1)](https://github.com/YokoHermanto1/YokoHermanto1/assets/145733702/7ed5a3b4-73d7-4b84-b699-25082433f840)
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
