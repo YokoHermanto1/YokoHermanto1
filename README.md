@@ -84,6 +84,34 @@
   
 </div>
 
+<h2 align="left">🌱 Currently Learning</h2>
+
+###
+
+<p align="left">
+
+🔹 Improving full-stack architecture with React, Laravel, and PostgreSQL<br>
+🔹 Exploring scalable backend development and API design<br>
+🔹 Learning better database optimization and deployment workflows<br>
+🔹 Improving UI/UX design systems and product thinking
+
+</p>
+
+###
+
+<h2 align="left">🎯 2026 Goals</h2>
+
+###
+
+<p align="left">
+
+🚀 Build more production-ready web applications<br>
+🚀 Strengthen my skills as a Full-Stack Developer<br>
+🚀 Create better user experiences through design and technology<br>
+🚀 Contribute to open-source projects and developer communities
+
+</p>
+
 ###
 
 <h2 align="left">🎶Music:</h2>
