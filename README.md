@@ -30,6 +30,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="40" alt="react logo"  />
+   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" height="40" alt="typeScript logo"  />
+   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo"  />
+   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgreSQL logo"  />
+   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  
 </div>
 
 ###
@@ -40,7 +55,7 @@
 
 <div align="center">
   <a href=https://open.spotify.com/user/31dgkoactzl2za5rfmco7fjpqp4e>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dgkoactzl2za5rfmco7fjpqp4e&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dgkoactzl2za5rfmco7fjpqp4e&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
 </div>
 
