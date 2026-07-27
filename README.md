@@ -8,6 +8,21 @@
 
 ###
 
+<h2 align="left">⚡ About Me</h2>
+
+###
+
+<p align="left">
+💻 Full-Stack Web Developer<br>
+🎨 Interested in UI/UX Design and Product Development<br>
+🚀 Building modern web applications with React, Laravel, and PostgreSQL<br>
+📚 Continuously improving my development and design skills<br>
+🎮 Inspired by games, anime, and creative digital experiences
+</p>
+
+
+###
+
 <h2 align="left">📊 Statistic</h2>
 
 ###
