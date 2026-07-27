@@ -8,6 +8,28 @@
 
 ###
 
+<h2 align="left">📊 Statistic</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api?username=YokoHermanto1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://streak-stats.demolab.com/?user=YokoHermanto1&theme=dark&hide_border=false" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YokoHermanto1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <h2 align="left">💻 Tech Stack:</h2>
 
 ###
@@ -61,9 +83,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YokoHermanto1/YokoHermanto1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YokoHermanto1/YokoHermanto1/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/YokoHermanto1/YokoHermanto1/output/snake.svg" alt="Snake animation" />
-</picture>
+<h2 align="left">🌐 Socials:</h2> 
+
+###
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sergeantdead) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yoko-hermanto/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yokohermanto@gmail.com) 
 
